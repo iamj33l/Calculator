@@ -57,4 +57,4 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - <<, >>: to left and right shift a binary number
 - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
-Made with ❤️ with by, [Jeel Patel](github.com/iamj33l)
+Made with ❤️ with by, [Jeel Patel](https://github.com/iamj33l)
