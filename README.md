@@ -6,9 +6,9 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 
 - **Menu Bar**:
   - *Mode*:
-    Simple Calculator: This will open a simple calculator. This calculator can do simple calculations. for example, addition, subtraction, multiplication, division, etc.
-    Scientific Calculator: This will open a scientific calculator. This calculator can do more complex calculations. for example, sin, cos, tan, etc.
-    Binary Calculator: This will open a binary calculator. This calculator can do calculations in binary. for example, AND, OR, NOR operation etc.
+    - Simple Calculator: This will open a simple calculator. This calculator can do simple calculations. for example, addition, subtraction, multiplication, division, etc.
+    - Scientific Calculator: This will open a scientific calculator. This calculator can do more complex calculations. for example, sin, cos, tan, etc.
+    - Binary Calculator: This will open a binary calculator. This calculator can do calculations in binary. for example, AND, OR, NOR operation etc.
 
   - *History*:
     Show History: This will show the history of all the calculations you have done.
