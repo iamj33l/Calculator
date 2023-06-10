@@ -17,7 +17,7 @@ You can either use the buttons or the keyboard to enter the numbers and operator
   - *Help*:
     Show Help: This will show this help.
 
-##### Keys:
+#### Keys:
 - 0-9: to enter numbers.
 - +: to add.
 - -: to subtract.
@@ -30,7 +30,7 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - (Backspace): to delete the last character.
 - -() (Negate): to negate the number.
 
-##### Scientific Calculator's Keys:
+#### Scientific Calculator's Keys:
 - x^y: to raise a number to the power of another number.
 - x!: to find factorial of a number.
 - nPr: to find permutation of a number.
@@ -46,7 +46,7 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - e^n: to find e raised to the power of a number.
 - pi : to add pi to the expression.
 
-##### Binary Calculator's Keys:
+#### Binary Calculator's Keys:
 - AND: to find AND of two numbers.
 - OR: to find OR of two numbers.
 - NOR: to find NOR of two numbers.
@@ -54,9 +54,9 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - XOR: to find XOR of two numbers.
 - XNOR: to find XNOR of two numbers.
 - ~: to find complement of a number.
-- <<: to left shift a number.
-- >>: to right shift a number.
+- < <: to left shift a number.
+- > >: to right shift a number.
 - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
-Made with ❤️ with by, [Jeel Patel[](github.com/iamj33l)
+Made with ❤️ with by, [Jeel Patel](github.com/iamj33l)
 LinkedIn: [Jeel Patel](linkedin.com/in/jeel-patel-6b630b249
