@@ -58,5 +58,3 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
 Made with ❤️ with by, [Jeel Patel](github.com/iamj33l)
-
-LinkedIn: [Jeel Patel](linkedin.com/in/jeel-patel-6b630b249)
