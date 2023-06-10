@@ -54,9 +54,9 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - XOR: to find XOR of two numbers.
 - XNOR: to find XNOR of two numbers.
 - ~: to find complement of a number.
-- < <: to left shift a number.
-- > >: to right shift a number.
+-  <<: to left shift a number.
+-  >>: to right shift a number.
 - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
 Made with ❤️ with by, [Jeel Patel](github.com/iamj33l)
-LinkedIn: [Jeel Patel](linkedin.com/in/jeel-patel-6b630b249
+LinkedIn: [Jeel Patel](linkedin.com/in/jeel-patel-6b630b249)
