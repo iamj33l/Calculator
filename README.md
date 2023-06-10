@@ -17,46 +17,46 @@ You can either use the buttons or the keyboard to enter the numbers and operator
   - *Help*:
     Show Help: This will show this help.
 
-**Keys**:
-    - 0-9: to enter numbers.
-    - +: to add.
-    - -: to subtract.
-    - * : to multiply.
-    - /: to divide.
-    - %: to find remainder.
-    - .: to enter decimal point.
-    - =: to get the result.
-    - C: to clear the screen.
-    - (Backspace): to delete the last character.
-    - -() (Negate): to negate the number.
+##### Keys:
+- 0-9: to enter numbers.
+- +: to add.
+- -: to subtract.
+- * : to multiply.
+- /: to divide.
+- %: to find remainder.
+- .: to enter decimal point.
+- =: to get the result.
+- C: to clear the screen.
+- (Backspace): to delete the last character.
+- -() (Negate): to negate the number.
 
-**Scientific Calculator's Keys**:
-    - x^y: to raise a number to the power of another number.
-    - x!: to find factorial of a number.
-    - nPr: to find permutation of a number.
-    - nCr: to find combination of a number.
-    - sin: to find sin of a number.
-    - cos: to find cos of a number.
-    - tan: to find tan of a number.
-    - asin: to find inverse sin of a number.
-    - acos: to find inverse cos of a number.
-    - atan: to find inverse tan of a number.
-    - ln: to find natural log of a number.
-    - log: to find log of a number.
-    - e^n: to find e raised to the power of a number.
-    - pi : to add pi to the expression.
+##### Scientific Calculator's Keys:
+- x^y: to raise a number to the power of another number.
+- x!: to find factorial of a number.
+- nPr: to find permutation of a number.
+- nCr: to find combination of a number.
+- sin: to find sin of a number.
+- cos: to find cos of a number.
+- tan: to find tan of a number.
+- asin: to find inverse sin of a number.
+- acos: to find inverse cos of a number.
+- atan: to find inverse tan of a number.
+- ln: to find natural log of a number.
+- log: to find log of a number.
+- e^n: to find e raised to the power of a number.
+- pi : to add pi to the expression.
 
-**Binary Calculator's Keys**:
-    - AND: to find AND of two numbers.
-    - OR: to find OR of two numbers.
-    - NOR: to find NOR of two numbers.
-    - NAND: to find NAND of two numbers.
-    - XOR: to find XOR of two numbers.
-    - XNOR: to find XNOR of two numbers.
-    - ~: to find complement of a number.
-    - <<: to left shift a number.
-    - >>: to right shift a number.
-    - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
+##### Binary Calculator's Keys:
+- AND: to find AND of two numbers.
+- OR: to find OR of two numbers.
+- NOR: to find NOR of two numbers.
+- NAND: to find NAND of two numbers.
+- XOR: to find XOR of two numbers.
+- XNOR: to find XNOR of two numbers.
+- ~: to find complement of a number.
+- <<: to left shift a number.
+- >>: to right shift a number.
+- +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
-Made with ❤️ with by, ![Jeel Patel[](github.com/iamj33l)
-LinkedIn: ![Jeel Patel](linkedin.com/in/jeel-patel-6b630b249
+Made with ❤️ with by, [Jeel Patel[](github.com/iamj33l)
+LinkedIn: [Jeel Patel](linkedin.com/in/jeel-patel-6b630b249
