@@ -47,15 +47,14 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - pi : to add pi to the expression.
 
 #### Binary Calculator's Keys:
-- AND: to find AND of two numbers.
-- OR: to find OR of two numbers.
-- NOR: to find NOR of two numbers.
-- NAND: to find NAND of two numbers.
-- XOR: to find XOR of two numbers.
-- XNOR: to find XNOR of two numbers.
-- ~: to find complement of a number.
--  <<: to left shift a number.
--  >>: to right shift a number.
+- AND: to find AND of two binary numbers.
+- OR: to find OR of two binary numbers.
+- NOR: to find NOR of two binary numbers.
+- NAND: to find NAND of two binary numbers.
+- XOR: to find XOR of two binary numbers.
+- XNOR: to find XNOR of two binary numbers.
+- ~: to find complement of a binary number.
+- <<, >>: to left and right shift a binary number
 - +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
 
 Made with ❤️ with by, [Jeel Patel](github.com/iamj33l)
