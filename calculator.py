@@ -663,7 +663,7 @@ def calculator():
 
     # creating help menu
     helpMenu = Menu(menubar, tearoff=FALSE)
-    helpMenu.add_command(label='Show Help', command=showHelp)
+    helpMenu.add_command(label='About', command=showHelp)
     menubar.add_cascade(label='Help', menu=helpMenu)
 
     frame.resizable(False, False)
