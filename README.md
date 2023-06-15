@@ -55,6 +55,11 @@ You can either use the buttons or the keyboard to enter the numbers and operator
 - XNOR: to find XNOR of two binary numbers.
 - ~: to find complement of a binary number.
 - <<, >>: to left and right shift a binary number
-- +, -, * , /, %, ., =, C, Backspace: same as simple calculator.
+- +, -, * , /, %, ., =, C, Backspace: same as simple calculator
+
+#### Note:
+You will have to extract the file which contains icon and images in the same module in which your main driver file is, otherwise it will give an error.
 
 Made with ❤️ with by, [Jeel Patel](https://github.com/iamj33l)
+
+Linkedin: [JEEL PATEL](https://www.linkedin.com/in/jeel-patel-6b630b249/)
